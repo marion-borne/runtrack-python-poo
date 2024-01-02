@@ -15,5 +15,5 @@ class operation:
         print(f"l'addition du nombre {self.nombre1} et du nombre {self.nombre2} est égal à {result}")
         
         
-calcul = operation(12, 3)
+calcul = operation(2, 4)
 calcul.addition()
