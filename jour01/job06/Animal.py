@@ -4,10 +4,10 @@ class Animal:
         self.age = 0
         self.prenom = "" 
         
-    def set_x(self, age):
+    def set_age(self, age):
         self.age = age
         
-    def set_y(self, prenom):
+    def set_prenom(self, prenom):
         self.prenom = prenom
         
     def vieillir(self):
